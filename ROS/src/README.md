@@ -33,17 +33,12 @@ rosrun segwayrmp ChassisResponseTest
 
 ## ROS Package Description
 
-`segway_msgs` : Segway Messages Package
-
-  `segway_msgs/msg`   : Definitions of custom messages for RMP220
-
-`segwayrmp`   : Segway RMP Control Nodes
-
-  `segwayrmp/include` : Directory containing header files requried for control nodes
-  
-  `segwayrmp/src`     : Segway RMP control nodes
-  
-  `segwayrmp/tools`   : ChassisResponseTest node for testing robot
+- `segway_msgs` : Segway Messages Package
+  - `segway_msgs/msg`   : Definitions of custom messages for RMP220
+- `segwayrmp`   : Segway RMP Control Nodes
+  - `segwayrmp/include` : Directory containing header files requried for control nodes
+  - `segwayrmp/src`     : Segway RMP control nodes
+  - `segwayrmp/tools`   : `ChassisResponseTest node` for testing robot
 
 ## Serial Port Settings for `ChassisResponseTest`
 
