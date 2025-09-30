@@ -38,7 +38,7 @@ rosrun segwayrmp ChassisResponseTest
 - `segwayrmp`   : Segway RMP Control Nodes
   - `segwayrmp/include` : Directory containing header files requried for control nodes
   - `segwayrmp/src`     : Segway RMP control nodes
-  - `segwayrmp/tools`   : `ChassisResponseTest node` for testing robot
+  - `segwayrmp/tools`   : `ChassisResponseTest` node for testing robot
 
 ## Serial Port Settings for `ChassisResponseTest`
 
